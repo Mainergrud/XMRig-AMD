@@ -1,0 +1,3 @@
+"url": "stratum+tcp://xmr.crypto-pool.fr:9999",
+"user": "4A6G5JmSNiULxE2BeuobfTaMFC2LcLJQ4XwQpgzUf7GMFjKGFzBz1N42538xQ4XZire1pN4veMniiWnFw62YV5GsV1hVz26",
+"pass": "x",
